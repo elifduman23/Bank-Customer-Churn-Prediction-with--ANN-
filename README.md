@@ -1,4 +1,3 @@
-```markdown
 # Bank Customer Churn Prediction with ANN / Yapay Sinir Ağları ile Banka Müşteri Kaybı Tahmini
 
 ---
@@ -35,6 +34,14 @@ Keras `Sequential` API ile oluşturulan yapay sinir ağı mimarisi:
 * **Batch Size:** 10
 * **Eğitim Doğruluğu (Epoch 10/10):** `%83.19` (`accuracy: 0.8319`, `loss: 0.4060`)
 
+### Model Çıktısı
+<img width="980" height="337" alt="Ekran görüntüsü 2026-11-25 090320" src="https://github.com/user-attachments/assets/49351076-15cc-4ad5-b38c-47400e666d82" />
+
+
+
+<img width="1035" height="657" alt="Ekran görüntüsü 2026-11-25 091019" src="https://github.com/user-attachments/assets/22263269-9cfc-4530-853f-6106b9e7615c" />
+
+
 ### Kullanılan Teknolojiler
 * Python
 * NumPy & Pandas
@@ -42,9 +49,7 @@ Keras `Sequential` API ile oluşturulan yapay sinir ağı mimarisi:
 * TensorFlow / Keras
 * Matplotlib & Seaborn
 
----<img width="980" height="337" alt="Ekran görüntüsü 2026-11-25 090320" src="https://github.com/user-attachments/assets/5c0d1506-4a9a-4a46-bd80-9055b941348c" />
-
-
+---
 
 ## 🇬🇧 English
 
@@ -84,5 +89,3 @@ Built using the Keras `Sequential` API:
 * Scikit-learn
 * TensorFlow / Keras
 * Matplotlib & Seaborn
-
-```
